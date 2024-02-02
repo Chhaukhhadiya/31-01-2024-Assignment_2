@@ -1,0 +1,44 @@
+h1{
+    color: red; 
+    font-size: 24px;
+     background: red;
+}
+p.new{
+    background-color: yellow;
+     padding: 10px;"
+}
+.first{
+    border-style: solid;
+    border-width:1px;
+    border-color:red;
+    
+}
+.first h2{
+    color: blue;
+}
+#one li{
+     font-weight: bold;
+}
+#two li{
+   font-weight: italic;"
+}
+.second{
+    border: 1px;
+    background: red;
+    border-style:soid;
+   
+}
+.second h2{
+    color: blue;
+}
+#third li{
+    
+   font-weight: bold;
+}
+
+#forth li{
+    font-weight:italic;
+}
+p{
+    text-align: center;
+}
